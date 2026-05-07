@@ -28,7 +28,7 @@ Harga :
 Stok :
 <br>
 
-<input type="number" value="stok">
+<input type="number" name="stok">
 <br><br>
 <input type="submit" value="simpan">
 
